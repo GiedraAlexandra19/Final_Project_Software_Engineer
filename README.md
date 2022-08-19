@@ -34,3 +34,8 @@ Ejemplo, lo implementamos
 ## 3.- Agrupacion de Codigo
 
 ## 4.- Organizacion en Archivos y Carpetas
+
+## 5.- Sistema Consistente de Nombramiento
+
+![image](https://user-images.githubusercontent.com/83047121/185671621-16b5c762-c2ba-4e1b-a346-6b98c18a2efd.png)
+
