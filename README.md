@@ -27,10 +27,10 @@ Ejemplo, lo implementamos
 
 # Practica 10: Codificacion legible
 
-1.- Comentar y documentar
+## 1.- Comentar y documentar
 
-2.- Sangrado Consistente
+## 2.- Sangrado Consistente
 
-3.- Agrupacion de Codigo
+## 3.- Agrupacion de Codigo
 
-4.- Organizacion de Archivos y Carpetas
+## 4.- Organizacion de Archivos y Carpetas
