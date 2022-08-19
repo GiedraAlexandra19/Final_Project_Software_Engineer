@@ -25,4 +25,4 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 
 Ejemplo, lo implementamos 
 
-#Practica 10: Codificacion legible
+# Practica 10: Codificacion legible
