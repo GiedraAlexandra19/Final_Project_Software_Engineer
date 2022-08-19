@@ -23,17 +23,18 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 
 *Pocas lineas de codigo como sea posible
 
-Ejemplo, lo implementamos 
 
 # Practica 10: Codificacion legible
 
 ## 1.- Comentar y documentar
 
 ## 2.- Sangrado Consistente
+![image](https://user-images.githubusercontent.com/83047121/185671822-d0d27953-9030-40b1-98c7-cd075fcf5bb5.png)
 
 ## 3.- Agrupacion de Codigo
 
 ## 4.- Organizacion en Archivos y Carpetas
+![image](https://user-images.githubusercontent.com/83047121/185671865-d0ab1788-ef2c-406d-8a49-fb02f95eb1eb.png)
 
 ## 5.- Sistema Consistente de Nombramiento
 
