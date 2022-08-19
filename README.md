@@ -28,7 +28,7 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 
 ## 1.- Comentar y documentar
 
-## 2.- Sangrado Consistente
+## 2.- Indentacion Consistente
 
 ![image](https://user-images.githubusercontent.com/83047121/185671822-d0d27953-9030-40b1-98c7-cd075fcf5bb5.png)
 
