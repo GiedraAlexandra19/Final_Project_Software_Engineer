@@ -33,4 +33,4 @@ Ejemplo, lo implementamos
 
 ## 3.- Agrupacion de Codigo
 
-## 4.- Organizacion de Archivos y Carpetas
+## 4.- Organizacion en Archivos y Carpetas
