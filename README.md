@@ -34,6 +34,8 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 
 ## 3.- Agrupacion de Codigo
 
+![image](https://user-images.githubusercontent.com/83047121/185673511-0676ffdb-27d4-4dbb-8666-d8987ebd0516.png)
+
 ## 4.- Organizacion en Archivos y Carpetas
 Los archivos estan organizados en carpetas.
 
