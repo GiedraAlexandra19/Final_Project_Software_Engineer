@@ -27,6 +27,9 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 # Practica 10: Codificacion legible
 
 ## 1.- Comentar y documentar
+El codigo esa comentado en partes importantes y donde posiblemente no se entienda a simple vista.
+
+![image](https://user-images.githubusercontent.com/83047121/185673813-dfd39d74-8a64-4bd1-b12b-9260d9fdf707.png)
 
 ## 2.- Indentacion Consistente
 
