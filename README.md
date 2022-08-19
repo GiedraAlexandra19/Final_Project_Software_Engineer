@@ -6,6 +6,9 @@
 
 *Cada 'cosa' es una cápsula de datos que expone los procedimientos al resto del mundo
 
+Ejemplo, lo implementamos [aqui()]
+
+
 ## Declared Intentions
 
 *Existencia de un verificador de tipos en tiempo de ejecución
