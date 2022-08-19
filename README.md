@@ -1,4 +1,5 @@
-# ESTILOS DE PROGRAMACION
+
+# Practica 9: ESTILOS DE PROGRAMACION
 
 ## Things
 
@@ -23,3 +24,5 @@ Cuando declaramos explicitamente un elemento y debe cumplir una condicion obliga
 *Pocas lineas de codigo como sea posible
 
 Ejemplo, lo implementamos 
+
+#Practica 10: Codificacion legible
