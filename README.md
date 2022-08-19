@@ -6,7 +6,7 @@
 
 *Cada 'cosa' es una cápsula de datos que expone los procedimientos al resto del mundo
 
-Ejemplo, lo implementamos [aqui(https://github.com/GiedraAlexandra19/Final_Project_Software_Engineer/blob/main/Evento.py)]
+Ejemplo, lo implementamos [aqui] (https://github.com/GiedraAlexandra19/Final_Project_Software_Engineer/blob/main/Evento.py)
 
 
 ## Declared Intentions
