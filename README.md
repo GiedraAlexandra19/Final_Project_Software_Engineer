@@ -62,9 +62,11 @@ Cada archivo y clase presenta solo una funcionalidad. Por ejemplo en modelos ten
 Podemos añadir funcionalidades sin modificar la base de datos.
 
 ![image](https://user-images.githubusercontent.com/83047121/185971562-83809607-befc-4509-88c6-e6bec0b8a202.png)
+
 Imagen 1: Clase evento inicialmente
 
 ![image](https://user-images.githubusercontent.com/83047121/185971671-0db1bb24-209f-4cfb-82a9-6c4ce79a24a4.png)
+
 Imagen 2: Clase evento añadiendo funcionalidades
 
 ## Interface segregation
