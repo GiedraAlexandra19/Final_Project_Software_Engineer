@@ -53,7 +53,7 @@ Se utiliza un sistema consistente de nombramiento para las variables, en la que 
 
 ## Single Responsability Principle
 "Una clase deberia tener una, y solo una razon para cambiar".
-Cada archivo y clase presenta solo una funcionalidad. Por ejemplo en modelos tenemos un archivo para representar cad entidad.
+Cada archivo y clase presenta solo una funcionalidad. Por ejemplo en modelos tenemos un archivo para representar cada entidad.
 
 ![image](https://user-images.githubusercontent.com/83047121/185970492-262cb494-7075-47a8-8041-d63bbeae8ea8.png)
 
