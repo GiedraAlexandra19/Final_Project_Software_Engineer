@@ -9,6 +9,8 @@
 
 Ejemplo, lo implementamos [aqui](https://github.com/GiedraAlexandra19/Final_Project_Software_Engineer/blob/main/Evento.py).
 
+![image](https://user-images.githubusercontent.com/83047121/185998477-2082bdc2-c22a-4f41-be3d-1d24e590fc76.png)
+
 
 ## Declared Intentions
 
@@ -19,10 +21,14 @@ Ejemplo, lo implementamos [aqui](https://github.com/GiedraAlexandra19/Final_Proj
 Ejemplo, lo implementamos [aqui](https://github.com/GiedraAlexandra19/Final_Project_Software_Engineer/blob/main/Evento.py).
 Cuando declaramos explicitamente un elemento y debe cumplir una condicion obligatriamente.
 
+![image](https://user-images.githubusercontent.com/83047121/185998621-3708dcf0-3ba6-48ef-9b74-0c6e1b1e28d7.png)
+
+
 ## Code Golf
 
 *Pocas lineas de codigo como sea posible
 
+![image](https://user-images.githubusercontent.com/83047121/185998246-dfe245b5-3b84-4209-a1d3-5429b65c26d3.png)
 
 # Practica 10: Codificacion legible
 
