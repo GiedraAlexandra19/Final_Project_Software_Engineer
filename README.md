@@ -49,3 +49,26 @@ Se utiliza un sistema consistente de nombramiento para las variables, en la que 
 
 ![image](https://user-images.githubusercontent.com/83047121/185671621-16b5c762-c2ba-4e1b-a346-6b98c18a2efd.png)
 
+# Practica 11: Principios SOLID
+
+## Single Responsability Principle
+"Una clase deberia tener una, y solo una razon para cambiar".
+Cada archivo y clase presenta solo una funcionalidad. Por ejemplo en modelos tenemos un archivo para representar cad entidad.
+
+![image](https://user-images.githubusercontent.com/83047121/185970492-262cb494-7075-47a8-8041-d63bbeae8ea8.png)
+
+## Open/Closed
+"Deberias ser capaz de extender el comportamiento de una clase, sin modificarla"
+Podemos añadir funcionalidades sin modificar la base de datos.
+
+![image](https://user-images.githubusercontent.com/83047121/185971562-83809607-befc-4509-88c6-e6bec0b8a202.png)
+Imagen 1: Clase evento inicialmente
+
+![image](https://user-images.githubusercontent.com/83047121/185971671-0db1bb24-209f-4cfb-82a9-6c4ce79a24a4.png)
+Imagen 2: Clase evento añadiendo funcionalidades
+
+## Interface segregation
+"Haz interfaces que sean especificas para un tipo de cliente"
+Es preferible contar con muchas interfaces que definan pocos metodos que tener una interfaz forzada a implementar muchos metodos a los que no dara uso.
+
+![image](https://user-images.githubusercontent.com/83047121/185973059-285f9fab-370c-461b-9285-8b9c88e1d3c8.png)
